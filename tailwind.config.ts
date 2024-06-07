@@ -8,9 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors:{
+        "america": "#002E83",
+        "euro": "#0C5B9F"
+      },
       backgroundColor:{
+        "bg-default": "#ffffff",
         "america": "#B7E1FF",
-        "euro": "#A7CFFF"
+        "america1": "#002E83",
+        "euro": "#A7CFFF",
+        "euro1": "#0C5B9F"
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
