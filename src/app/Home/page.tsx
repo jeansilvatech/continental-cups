@@ -6,10 +6,10 @@ import Image from "next/image";
 const HomePage = ()=>{
     return (
         <div className="w-screen h-screen flex justify-center items-center flex-wrap">
-            <div className="lg:w-1/2 lg:h-full w-full h-1/2 bg-[#B7E1FF] flex justify-center items-center">
+            <div className="lg:w-1/2 lg:h-full w-full h-1/2 bg-america flex justify-center items-center">
                 <Image className="object-contain object-center hover:scale-105 cursor-pointer" src={logoCopaAmerica} width={200} height={200} alt=""/>
             </div>
-            <div className="lg:w-1/2 lg:h-full w-full h-1/2 bg-[#A7CFFF] flex justify-center items-center">
+            <div className="lg:w-1/2 lg:h-full w-full h-1/2 bg-euro flex justify-center items-center">
                 <Image className="object-contain object-center hover:scale-105 cursor-pointer" src={logoEuroCopa} width={160} height={200} alt=""/>
             </div>
         </div>

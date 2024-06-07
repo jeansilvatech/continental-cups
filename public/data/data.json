@@ -1,0 +1,389 @@
+[
+    {
+        "cup": "Eurocopa",
+        "groups":[
+            {
+                "group": "a",
+                "selections":[
+                    {
+                        "name":"Alemanha",
+                        "flagUrl": "alemanha"
+                    },
+                    {
+                        "name":"Escócia",
+                        "flagUrl": "escocia"
+                    },
+                    {
+                        "name":"Hungria",
+                        "flagUrl": "hungria"
+                    },
+                    {
+                        "name":"Suíça",
+                        "flagUrl": "suica"
+                    }
+                ]
+            },
+            {
+                "group": "b",
+                "selections":[
+                    {
+                        "name":"Espanha",
+                        "flagUrl": "espanha"
+                    },
+                    {
+                        "name":"Croácia",
+                        "flagUrl": "croacia"
+                    },
+                    {
+                        "name":"Itália",
+                        "flagUrl": "italia"
+                    },
+                    {
+                        "name":"Albânia",
+                        "flagUrl": "albania"
+                    }
+                ]
+            },
+            {
+                "group": "c",
+                "selections":[
+                    {
+                        "name":"Eslôvenia",
+                        "flagUrl": "eslovenia"
+                    },
+                    {
+                        "name":"Dinamarca",
+                        "flagUrl": "dinamarca"
+                    },
+                    {
+                        "name":"Sérvia",
+                        "flagUrl": "servia"
+                    },
+                    {
+                        "name":"Inglaterra",
+                        "flagUrl": "inglaterra"
+                    }
+                ]
+            },
+            {
+                "group": "d",
+                "selections":[
+                    {
+                        "name":"Polônia",
+                        "flagUrl": "polonia"
+                    },
+                    {
+                        "name":"Holanda",
+                        "flagUrl": "holanda"
+                    },
+                    {
+                        "name":"Áustria",
+                        "flagUrl": "austria"
+                    },
+                    {
+                        "name":"França",
+                        "flagUrl": "franca"
+                    }
+                ]
+            },
+            {
+                "group": "e",
+                "selections":[
+                    {
+                        "name":"Bélgica",
+                        "flagUrl": "belgica"
+                    },
+                    {
+                        "name":"Eslováquia",
+                        "flagUrl": "eslovaquia"
+                    },
+                    {
+                        "name":"Romênia",
+                        "flagUrl": "romenia"
+                    },
+                    {
+                        "name":"Ucrânia",
+                        "flagUrl": "ucrania"
+                    }
+                ]
+            },
+            {
+                "group": "f",
+                "selections":[
+                    {
+                        "name":"Turquia",
+                        "flagUrl": "turquia"
+                    },
+                    {
+                        "name":"Geórgia",
+                        "flagUrl": "georgia"
+                    },
+                    {
+                        "name":"Portugal",
+                        "flagUrl": "portugal"
+                    },
+                    {
+                        "name":"Tchéquia",
+                        "flagUrl": "tchequia"
+                    }
+                ]
+            },
+            {
+                "phase": "Oitavas de Final",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            },
+            {
+                "phase": "Quartas de Final",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            },
+            {
+                "phase": "Semifinal",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            },
+            {
+                "phase": "Final",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cup": "Copa América",
+        "groups":[
+            {
+                "group": "a",
+                "selections":[
+                    {
+                        "name":"Argentina",
+                        "flagUrl":"argentina"
+                    },
+                    {
+                        "name":"Peru",
+                        "flagUrl":"peru"
+                    },
+                    {
+                        "name":"Chile",
+                        "flagUrl":"chile"
+                    },
+                    {
+                        "name":"Canadá",
+                        "flagUrl":"canada"
+                    }
+                ]
+            },
+            {
+                "group": "b",
+                "selections":[
+                    {
+                        "name":"México",
+                        "flagUrl":"mexico"
+                    },
+                    {
+                        "name":"Equador",
+                        "flagUrl":"equador"
+                    },
+                    {
+                        "name":"Venezuela",
+                        "flagUrl":"venezuela"
+                    },
+                    {
+                        "name":"Jamaica",
+                        "flagUrl":"jamaica"
+                    }
+                ]
+            },
+            {
+                "group": "c",
+                "selections":[
+                    {
+                        "name":"Estados Unidos",
+                        "flagUrl":"estados_unidos"
+                    },
+                    {
+                        "name":"Uruguai",
+                        "flagUrl":"uruguai"
+                    },
+                    {
+                        "name":"Panamá",
+                        "flagUrl":"panamá"
+                    },
+                    {
+                        "name":"Bolívia",
+                        "flagUrl":"bolivia"
+                    }
+                ]
+            },
+            {
+                "group": "d",
+                "selections":[
+                    {
+                        "name":"Brasil",
+                        "flagUrl":"brasil"
+                    },
+                    {
+                        "name":"Colômbia",
+                        "flagUrl":"colombia"
+                    },
+                    {
+                        "name":"Paraguai",
+                        "flagUrl":"paraguai"
+                    },
+                    {
+                        "name":"Costa Rica",
+                        "flagUrl":"costa_rica"
+                    }
+                ]
+            },
+            {
+                "phase": "Quartas de Final",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            },
+            {
+                "phase": "Semifinal",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    },
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            },
+            {
+                "phase": "Final",
+                "matches":[
+                    {
+                        "name1":"",
+                        "flagUrl1":"",
+                        "name2":"",
+                        "flagUrl2":""
+                    }
+                ]
+            }
+        ]
+    }
+]
