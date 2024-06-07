@@ -1,64 +1,179 @@
 [
-    {
-        "cup":"Copa America",
-        "phases":[
-           {
-               "phase": "Quartas de Final",
-               "matches":[
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   },
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   },
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   },
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   }
-               ]
-           },
-           {
-               "phase": "Semifinal",
-               "matches":[
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   },
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   }
-               ]
-           },
-           {
-               "phase": "Final",
-               "matches":[
-                   {
-                       "name1":"",
-                       "flagUrl1":"",
-                       "name2":"",
-                       "flagUrl2":""
-                   }
-               ]
-           }
-       ]
-    }
+  {
+    "cup": "Copa America",
+    "phases": [
+      {
+        "phase": "Quartas de Final",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      },
+      {
+        "phase": "Semifinal",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      },
+      {
+        "phase": "Final",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cup": "Eurocopa",
+    "phases": [
+      {
+        "phase": "Oitavas de Final",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      },
+      {
+        "phase": "Quartas de Final",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      },
+      {
+        "phase": "Semifinal",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          },
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      },
+      {
+        "phase": "Final",
+        "matches": [
+          {
+            "name1": "",
+            "flagUrl1": "",
+            "name2": "",
+            "flagUrl2": ""
+          }
+        ]
+      }
+    ]
+  }
 ]
