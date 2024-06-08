@@ -2,6 +2,10 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { Close } from "@mui/icons-material";
+import TitleCardGroup from "@/components/TitleCardGroup";
+import SelectionsOfGroup from "@/components/SelectionsOfGroup";
+import TitleCardPhase from "@/components/TitleCardPhase";
+import PhaseConfrontation from "@/components/PhaseConfrontation";
 
 const PageEuroCopa = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
@@ -41,20 +45,13 @@ const PageEuroCopa = ()=>{
                 dataCup?(
                     dataCup[0]?.groups?.map((item:any, index:number)=>(
                         <div key={index} className="bg-[#E9E9E9] lg:w-1/3 w-full lg:h-1/3 h-1/4 flex justify-between shadow-md rounded-lg m-2 relative">
-                            <div className="w-20 rounded-l-md bg-euro1 flex justify-center items-center">
-                                <span className="uppercase text-2xl font-semibold text-white">
-                                {item.group}
-                                </span>
-                            </div>
+                            <TitleCardGroup title={item.group} color="euro1"/>
                             <div className="w-full flex justify-center items-center flex-wrap">
                             <div className="flex flex-wrap justify-center lg:w-1/2 w-3/4">
                             {
                                 
                                 item.selections?.map((selection:any, index:number)=>(
-                                    <div key={index} className="m-3 flex justify-center items-center flex-col">
-                                        <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/euro/${selection.flagUrl}.svg`} width={90} height={90} alt=""/>
-                                        <span className="uppercase text-xs mt-1 font-medium text-euro">{selection.name}</span>
-                                    </div>
+                                    <SelectionsOfGroup key={index} name={selection.name} flag={selection.flagUrl} originImage="euro" color="euro"/>   
                                 ))
                             }
                             </div>
@@ -72,16 +69,10 @@ const PageEuroCopa = ()=>{
                 dataPhases?(
                     dataPhases[1].phases.map((item:any, index:number)=>(
                         <div key={index} className="bg-euro1 w-[68%] my-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
-                            <div className="w-full flex justify-center items-center bg-[#E9E9E9] py-3 rounded-t-lg">
-                                <span className="uppercase font-semibold text-euro text-xl">{item.phase}</span>
-                            </div>
+                            <TitleCardPhase title={item.phase} color="euro"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
-                                    <div key={index} className="w-1/3 flex justify-center items-center bg-[#E9E9E9] py-3 px-2 my-5 mx-5 shadow-md rounded-lg">
-                                        <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/america/${match.flagUrl1}.svg`} width={90} height={90} alt=""/>
-                                        <Close className="text-euro mx-5"/>
-                                        <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/america/${match.flagUrl2}.svg`} width={90} height={90} alt=""/>
-                                    </div>
+                                    <PhaseConfrontation selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="euro" originImage="euro"/>
                                 ))
                             }
 

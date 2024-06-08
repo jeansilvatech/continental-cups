@@ -6,27 +6,27 @@
         "phase": "Quartas de Final",
         "matches": [
           {
-            "name1": "",
+            "name1": "1º A",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º B",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º B",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º A",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º D",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º C",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º C",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º D",
             "flagUrl2": "default"
           }
         ]
@@ -35,15 +35,15 @@
         "phase": "Semifinal",
         "matches": [
           {
-            "name1": "",
+            "name1": "Quartas 1",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Quartas 2",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "Quartas 3",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Quartas 4",
             "flagUrl2": "default"
           }
         ]
@@ -52,9 +52,9 @@
         "phase": "Final",
         "matches": [
           {
-            "name1": "",
+            "name1": "Semi 1",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Semi 2",
             "flagUrl2": "default"
           }
         ]
@@ -68,51 +68,51 @@
         "phase": "Oitavas de Final",
         "matches": [
           {
-            "name1": "",
+            "name1": "1º B",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "3º ADEF",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º A",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º C",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º F",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "3º ABC",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "2º D",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º E",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º E",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "3º ABCD",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º D",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º F",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "1º C",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º DEF",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "2º A",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "2º B",
             "flagUrl2": "default"
           }
         ]
@@ -121,27 +121,27 @@
         "phase": "Quartas de Final",
         "matches": [
           {
-            "name1": "",
+            "name1": "Oitavas 1",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Oitavas 2",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "Oitavas 3",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Oitavas 4",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "Oitavas 5",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Oitavas 6",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "Oitavas 7",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Oitavas 8",
             "flagUrl2": "default"
           }
         ]
@@ -150,15 +150,15 @@
         "phase": "Semifinal",
         "matches": [
           {
-            "name1": "",
+            "name1": "Quartas 1",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Quartas 2",
             "flagUrl2": "default"
           },
           {
-            "name1": "",
+            "name1": "Quartas 3",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Quartas 4",
             "flagUrl2": "default"
           }
         ]
@@ -167,9 +167,9 @@
         "phase": "Final",
         "matches": [
           {
-            "name1": "",
+            "name1": "Semi 1",
             "flagUrl1": "default",
-            "name2": "",
+            "name2": "Semi 2",
             "flagUrl2": "default"
           }
         ]
