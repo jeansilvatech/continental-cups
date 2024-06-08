@@ -3,6 +3,143 @@
     "cup": "Copa America",
     "phases": [
       {
+        "phase": "Fase de Grupos",
+        "matches": [
+          {
+            "name1": "Argentina",
+            "flagUrl1": "argentina",
+            "name2": "Canadá",
+            "flagUrl2": "canada"
+          },
+          {
+            "name1": "Peru",
+            "flagUrl1": "peru",
+            "name2": "Chile",
+            "flagUrl2": "chile"
+          },
+          {
+            "name1": "Equador",
+            "flagUrl1": "equador",
+            "name2": "Venezuela",
+            "flagUrl2": "venezuela"
+          },
+          {
+            "name1": "México",
+            "flagUrl1": "mexico",
+            "name2": "Jamaica",
+            "flagUrl2": "jamaica"
+          },
+          {
+            "name1": "EUA",
+            "flagUrl1": "estados_unidos",
+            "name2": "Bolívia",
+            "flagUrl2": "bolivia"
+          },
+          {
+            "name1": "Uruguai",
+            "flagUrl1": "uruguai",
+            "name2": "Panamá",
+            "flagUrl2": "panama"
+          },
+          {
+            "name1": "Colômbia",
+            "flagUrl1": "colombia",
+            "name2": "Paraguai",
+            "flagUrl2": "paraguai"
+          },
+          {
+            "name1": "Brasil",
+            "flagUrl1": "brasil",
+            "name2": "Costa Rica",
+            "flagUrl2": "costa_rica"
+          },
+          {
+            "name1": "Peru",
+            "flagUrl1": "peru",
+            "name2": "Canadá",
+            "flagUrl2": "canada"
+          },
+          {
+            "name1": "Chile",
+            "flagUrl1": "chile",
+            "name2": "Argentina",
+            "flagUrl2": "argentina"
+          },
+          {
+            "name1": "Equador",
+            "flagUrl1": "equador",
+            "name2": "Jamaica",
+            "flagUrl2": "jamaica"
+          },
+          {
+            "name1": "Venezuela",
+            "flagUrl1": "venezuela",
+            "name2": "México",
+            "flagUrl2": "mexico"
+          },
+          {
+            "name1": "Panamá",
+            "flagUrl1": "panama",
+            "name2": "EUA",
+            "flagUrl2": "estados_unidos"
+          },
+          {
+            "name1": "Uruguai",
+            "flagUrl1": "uruguai",
+            "name2": "Bolívia",
+            "flagUrl2": "bolivia"
+          },
+          {
+            "name1": "Colômbia",
+            "flagUrl1": "colombia",
+            "name2": "Costa Rica",
+            "flagUrl2": "costa_rica"
+          },
+          {
+            "name1": "Paraguai",
+            "flagUrl1": "paraguai",
+            "name2": "Brasil",
+            "flagUrl2": "brasil"
+          },
+          {
+            "name1": "Jamaica",
+            "flagUrl1": "jamaica",
+            "name2": "Venezuela",
+            "flagUrl2": "venezuela"
+          },
+          {
+            "name1": "México",
+            "flagUrl1": "mexico",
+            "name2": "Equador",
+            "flagUrl2": "equador"
+          },
+          {
+            "name1": "Bolívia",
+            "flagUrl1": "bolivia",
+            "name2": "Panamá",
+            "flagUrl2": "panama"
+          },
+          {
+            "name1": "EUA",
+            "flagUrl1": "estados_unidos",
+            "name2": "Uruguai",
+            "flagUrl2": "uruguai"
+          },
+          {
+            "name1": "Brasil",
+            "flagUrl1": "brasil",
+            "name2": "Colômbia",
+            "flagUrl2": "colombia"
+          },
+          {
+            "name1": "Costa Rica",
+            "flagUrl1": "costa_rica",
+            "name2": "Paraguai",
+            "flagUrl2": "paraguai"
+          }
+        ]
+      },
+      {
         "phase": "Quartas de Final",
         "matches": [
           {

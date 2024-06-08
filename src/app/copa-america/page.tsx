@@ -68,7 +68,7 @@ const PageCopaAmerica = ()=>{
             {
                 dataPhases?(
                     dataPhases[0].phases.map((item:any, index:number)=>(
-                        <div key={index} className="bg-america1 w-[68%] my-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
+                        <div key={index} className="bg-america1 lg:w-[68%] w-full m-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
                             <TitleCardPhase title={item.phase} color="america"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
