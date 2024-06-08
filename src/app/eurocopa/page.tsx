@@ -1,9 +1,11 @@
 "use client"
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
+import { Close } from "@mui/icons-material";
 
 const PageEuroCopa = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
+    const [dataPhases, setDataPhases] = useState<any>(null);
 
     useEffect(()=>{
         const apiCup = async ()=>{
@@ -18,8 +20,23 @@ const PageEuroCopa = ()=>{
         }
         apiCup()
     }, [])
+    useEffect(()=>{
+        const apiPhases = async ()=>{
+            try{
+                const response = await fetch("data/phases.json");
+                const jsonData = await response.json();
+                setDataPhases(jsonData)
+
+            }catch(err){
+                console.log(err)
+            }
+        }
+        apiPhases()
+    }, [])
+    
     return(
         <div className="bg-euro w-full  p-5 flex flex-wrap justify-center items-start">
+            <div className="w-full h-auto flex flex-wrap justify-center items-start">
             {
                 dataCup?(
                     dataCup[0]?.groups?.map((item:any, index:number)=>(
@@ -49,6 +66,32 @@ const PageEuroCopa = ()=>{
                     <p>Carregando...</p>
                 )
             }
+            </div>
+            <div className="w-full flex justify-center items-center flex-wrap mt-3">
+            {
+                dataPhases?(
+                    dataPhases[1].phases.map((item:any, index:number)=>(
+                        <div key={index} className="bg-euro1 w-[68%] my-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
+                            <div className="w-full flex justify-center items-center bg-[#E9E9E9] py-3 rounded-t-lg">
+                                <span className="uppercase font-semibold text-euro text-xl">{item.phase}</span>
+                            </div>
+                            {
+                                item.matches.map((match:any, index:number)=>(
+                                    <div key={index} className="w-1/3 flex justify-center items-center bg-[#E9E9E9] py-3 px-2 my-5 mx-5 shadow-md rounded-lg">
+                                        <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/america/${match.flagUrl1}.svg`} width={90} height={90} alt=""/>
+                                        <Close className="text-euro mx-5"/>
+                                        <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/america/${match.flagUrl2}.svg`} width={90} height={90} alt=""/>
+                                    </div>
+                                ))
+                            }
+
+                        </div>
+                    ))
+                ):(
+                    ''
+                )
+            }
+        </div>
         </div>
     )
 }
