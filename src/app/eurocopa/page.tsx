@@ -44,7 +44,7 @@ const PageEuroCopa = ()=>{
             {
                 dataCup?(
                     dataCup[0]?.groups?.map((item:any, index:number)=>(
-                        <div key={index} className="bg-[#E9E9E9] lg:w-1/3 w-full lg:h-1/3 h-1/4 flex justify-between shadow-md rounded-lg m-2 relative">
+                        <div key={index} className="bg-[#E9E9E9] lg:w-1/3 w-full lg:h-1/3 h-1/4 flex justify-between shadow-md rounded-lg m-2 relative animate-enter">
                             <TitleCardGroup title={item.group} color="euro1"/>
                             <div className="w-full flex justify-center items-center flex-wrap">
                             <div className="flex flex-wrap justify-center lg:w-1/2 w-3/4">
@@ -68,7 +68,7 @@ const PageEuroCopa = ()=>{
             {
                 dataPhases?(
                     dataPhases[1].phases.map((item:any, index:number)=>(
-                        <div key={index} className="bg-euro1 lg:w-[68%] w-full m-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
+                        <div key={index} className="bg-euro1 lg:w-[68%] w-full m-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg animate-enter">
                             <TitleCardPhase title={item.phase} color="euro"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
