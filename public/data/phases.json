@@ -202,6 +202,227 @@
     "cup": "Eurocopa",
     "phases": [
       {
+        "phase": "Fase de Grupos",
+        "matches": [
+          {
+            "name1": "Alemanha",
+            "flagUrl1": "alemanha",
+            "name2": "Escócia",
+            "flagUrl2": "escocia"
+          },
+          {
+            "name1": "Hungria",
+            "flagUrl1": "hungria",
+            "name2": "Suíça",
+            "flagUrl2": "suica"
+          },
+          {
+            "name1": "Espanha",
+            "flagUrl1": "espanha",
+            "name2": "Croácia",
+            "flagUrl2": "croacia"
+          },
+          {
+            "name1": "Itália",
+            "flagUrl1": "italia",
+            "name2": "Albânia",
+            "flagUrl2": "albania"
+          },
+          {
+            "name1": "Eslôvenia",
+            "flagUrl1": "eslovenia",
+            "name2": "Dinamarca",
+            "flagUrl2": "dinamarca"
+          },
+          {
+            "name1": "Sérvia",
+            "flagUrl1": "servia",
+            "name2": "Inglaterra",
+            "flagUrl2": "inglaterra"
+          },
+          {
+            "name1": "Pôlonia",
+            "flagUrl1": "polonia",
+            "name2": "Holanda",
+            "flagUrl2": "holanda"
+          },
+          {
+            "name1": "Áustria",
+            "flagUrl1": "austria",
+            "name2": "França",
+            "flagUrl2": "franca"
+          },
+          {
+            "name1": "Romênia",
+            "flagUrl1": "romenia",
+            "name2": "Ucrânia",
+            "flagUrl2": "ucrania"
+          },
+          {
+            "name1": "Bélgica",
+            "flagUrl1": "belgica",
+            "name2": "Eslováquia",
+            "flagUrl2": "eslovaquia"
+          },
+          {
+            "name1": "Turquia",
+            "flagUrl1": "turquia",
+            "name2": "Geórgia",
+            "flagUrl2": "georgia"
+          },
+          {
+            "name1": "Portugal",
+            "flagUrl1": "portugal",
+            "name2": "Tchéquia",
+            "flagUrl2": "tchequia"
+          },
+          {
+            "name1": "Alemanha",
+            "flagUrl1": "alemanha",
+            "name2": "Hungria",
+            "flagUrl2": "hungria"
+          },
+          {
+            "name1": "Escócia",
+            "flagUrl1": "escocia",
+            "name2": "Suíça",
+            "flagUrl2": "suica"
+          },
+          {
+            "name1": "Croácia",
+            "flagUrl1": "croacia",
+            "name2": "Albânia",
+            "flagUrl2": "albania"
+          },
+          {
+            "name1": "Espanha",
+            "flagUrl1": "espanha",
+            "name2": "Itália",
+            "flagUrl2": "italia"
+          },
+          {
+            "name1": "Eslôvenia",
+            "flagUrl1": "eslovenia",
+            "name2": "Sérvia",
+            "flagUrl2": "servia"
+          },
+          {
+            "name1": "Dinamarca",
+            "flagUrl1": "dinamarca",
+            "name2": "Inglaterra",
+            "flagUrl2": "inglaterra"
+          },
+          {
+            "name1": "Pôlonia",
+            "flagUrl1": "polonia",
+            "name2": "Áustria",
+            "flagUrl2": "austria"
+          },
+          {
+            "name1": "Holanda",
+            "flagUrl1": "holanda",
+            "name2": "França",
+            "flagUrl2": "franca"
+          },
+          {
+            "name1": "Eslováquia",
+            "flagUrl1": "eslovaquia",
+            "name2": "Ucrânia",
+            "flagUrl2": "ucrania"
+          },
+          {
+            "name1": "Bélgica",
+            "flagUrl1": "belgica",
+            "name2": "Romênia",
+            "flagUrl2": "romenia"
+          },
+          {
+            "name1": "Geórgia",
+            "flagUrl1": "georgia",
+            "name2": "Tchéquia",
+            "flagUrl2": "tchequia"
+          },
+          {
+            "name1": "Turquia",
+            "flagUrl1": "turquia",
+            "name2": "Portugal",
+            "flagUrl2": "portugal"
+          },
+          {
+            "name1": "Suíça",
+            "flagUrl1": "suica",
+            "name2": "Alemanha",
+            "flagUrl2": "alemanha"
+          },
+          {
+            "name1": "Escócia",
+            "flagUrl1": "escocia",
+            "name2": "Hungria",
+            "flagUrl2": "hungria"
+          },
+          {
+            "name1": "Albânia",
+            "flagUrl1": "albania",
+            "name2": "Espanha",
+            "flagUrl2": "espanha"
+          },
+          {
+            "name1": "Croácia",
+            "flagUrl1": "croacia",
+            "name2": "Itália",
+            "flagUrl2": "italia"
+          },
+          {
+            "name1": "Dinamarca",
+            "flagUrl1": "dinamarca",
+            "name2": "Sérvia",
+            "flagUrl2": "servia"
+          },
+          {
+            "name1": "Inglaterra",
+            "flagUrl1": "inglaterra",
+            "name2": "Eslovênia",
+            "flagUrl2": "eslovenia"
+          },
+          {
+            "name1": "Holanda",
+            "flagUrl1": "holanda",
+            "name2": "Áustria",
+            "flagUrl2": "austria"
+          },
+          {
+            "name1": "França",
+            "flagUrl1": "franca",
+            "name2": "Polônia",
+            "flagUrl2": "polonia"
+          },
+          {
+            "name1": "Eslováquia",
+            "flagUrl1": "eslovaquia",
+            "name2": "Romênia",
+            "flagUrl2": "romenia"
+          },
+          {
+            "name1": "Ucrânia",
+            "flagUrl1": "ucrania",
+            "name2": "Bélgica",
+            "flagUrl2": "belgica"
+          },
+          {
+            "name1": "Tchéquia",
+            "flagUrl1": "tchequia",
+            "name2": "Turquia",
+            "flagUrl2": "turquia"
+          },
+          {
+            "name1": "Geórgia",
+            "flagUrl1": "georgia",
+            "name2": "Portugal",
+            "flagUrl2": "portugal"
+          }
+        ]
+      },
+      {
         "phase": "Oitavas de Final",
         "matches": [
           {

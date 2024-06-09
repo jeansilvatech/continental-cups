@@ -9,9 +9,9 @@ interface SelectionsOfGroupProps{
 }
 const SelectionsOfGroup = ({name, flag, color, originImage}:SelectionsOfGroupProps)=>{
     return(
-        <div className="m-3 flex justify-center items-center flex-col">
-            <Image className="bg-[#D9D9D9] rounded-full lg:w-[80px] lg:h-[80px] w-[60px] h-[60px]" src={`/assets/${originImage}/${flag}.svg`} width={90} height={90} alt=""/>
-            <span className={`uppercase text-xs mt-1 font-medium text-${color}`}>{name}</span>
+        <div className="m-3 flex flex-1 justify-center items-center flex-col">
+            <Image className="bg-[#D9D9D9] rounded-full lg:w-[50px] lg:h-[50px] w-10 h-10" src={`/assets/${originImage}/${flag}.svg`} width={50} height={50} alt=""/>
+            <span className={`uppercase lg:text-sm text-xs text-center mt-1 font-semibold whitespace-nowrap text-${color}`}>{name}</span>
         </div>
     )
 }
