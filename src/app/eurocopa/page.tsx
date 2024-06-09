@@ -68,11 +68,11 @@ const PageEuroCopa = ()=>{
             {
                 dataPhases?(
                     dataPhases[1].phases.map((item:any, index:number)=>(
-                        <div key={index} className="bg-euro1 w-[68%] my-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
+                        <div key={index} className="bg-euro1 lg:w-[68%] w-full m-2 flex justify-evenly items-center flex-wrap shadow-md rounded-lg">
                             <TitleCardPhase title={item.phase} color="euro"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
-                                    <PhaseConfrontation selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="euro" originImage="euro"/>
+                                    <PhaseConfrontation key={index} selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="euro" originImage="euro"/>
                                 ))
                             }
 

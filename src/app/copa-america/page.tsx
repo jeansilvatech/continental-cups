@@ -1,7 +1,6 @@
 "use client"
 import React, {useEffect, useState} from "react";
-import Image from "next/image";
-import { Close } from "@mui/icons-material"
+
 import TitleCardGroup from "@/components/TitleCardGroup";
 import SelectionsOfGroup from "@/components/SelectionsOfGroup";
 import TitleCardPhase from "@/components/TitleCardPhase";
@@ -72,7 +71,7 @@ const PageCopaAmerica = ()=>{
                             <TitleCardPhase title={item.phase} color="america"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
-                                    <PhaseConfrontation selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="america" originImage="america"/>
+                                    <PhaseConfrontation key={index} selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="america" originImage="america"/>
                                 ))
                             }
 
