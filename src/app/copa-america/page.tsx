@@ -1,6 +1,7 @@
 "use client"
 import React, {useEffect, useState} from "react";
-
+import Image from "next/image";
+import logoCopaAmerica from '../../../public/assets/america.svg'
 import TitleCardGroup from "@/components/TitleCardGroup";
 import SelectionsOfGroup from "@/components/SelectionsOfGroup";
 import TitleCardPhase from "@/components/TitleCardPhase";
@@ -40,6 +41,9 @@ const PageCopaAmerica = ()=>{
     }, [])
     return(
         <div className="bg-america p-5 flex justify-center items-center flex-col">
+            <div className="m-3">
+                <Image src={logoCopaAmerica} width={100} height={100} alt=""/>
+            </div>
         <div className="w-full h-auto flex flex-wrap justify-center items-start">
             {
                 dataCup?(
