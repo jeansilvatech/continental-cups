@@ -51,7 +51,7 @@ const PageEuroCopa = ()=>{
                             {
                                 
                                 item.selections?.map((selection:any, index:number)=>(
-                                    <SelectionsOfGroup key={index} name={selection.name} flag={selection.flagUrl} originImage="euro" color="euro"/>   
+                                    <SelectionsOfGroup key={index} name={selection.name} flag={selection.flagUrl} originImage="euro" color="text-euro"/>   
                                 ))
                             }
                             </div>
@@ -72,7 +72,7 @@ const PageEuroCopa = ()=>{
                             <TitleCardPhase title={item.phase} color="euro"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
-                                    <PhaseConfrontation key={index} selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="euro" originImage="euro"/>
+                                    <PhaseConfrontation key={index} selection1={match.name1} flag1={match.flagUrl1} selection2={match.name2} flag2={match.flagUrl2} color="text-euro" originImage="euro"/>
                                 ))
                             }
 
