@@ -33,6 +33,9 @@ const config: Config = {
             opacity: '1'
           }
         }
+      },
+      animation:{
+          enter: 'enter 1s ease-in-out'
       }
     },
   },

@@ -60,7 +60,7 @@ const PageEuroCopa = ()=>{
                     ))
 
                 ):(
-                    <Loading color="euro" cupLogo="Eurocopa_logo" />
+                    <Loading color="euro" cupLogo="eurocopa" />
                 )
             }
             </div>

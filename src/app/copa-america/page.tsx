@@ -60,7 +60,7 @@ const PageCopaAmerica = ()=>{
                     ))
 
                 ):(
-                    <Loading color="america" cupLogo="Copa-America_logo"/>
+                    <Loading color="america" cupLogo="america"/>
                 )
             }
         </div>

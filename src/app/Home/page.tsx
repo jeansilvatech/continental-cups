@@ -1,7 +1,7 @@
 "use client"
 import React from "react";
-import logoCopaAmerica from '../../../public/assets/Copa-America_logo.svg'
-import logoEuroCopa from '../../../public/assets/Eurocopa_logo.svg'
+import logoCopaAmerica from '../../../public/assets/america.svg'
+import logoEuroCopa from '../../../public/assets/eurocopa.svg'
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 
