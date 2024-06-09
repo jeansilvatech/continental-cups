@@ -1,11 +1,11 @@
 "use client"
 import React, { useEffect, useState } from "react";
-import Image from "next/image";
-import { Close } from "@mui/icons-material";
 import TitleCardGroup from "@/components/TitleCardGroup";
 import SelectionsOfGroup from "@/components/SelectionsOfGroup";
 import TitleCardPhase from "@/components/TitleCardPhase";
 import PhaseConfrontation from "@/components/PhaseConfrontation";
+import Loading from "@/components/LoadingPage";
+import logoEuroCopa from '../../../public/assets/Eurocopa_logo.svg'
 
 const PageEuroCopa = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
@@ -60,7 +60,7 @@ const PageEuroCopa = ()=>{
                     ))
 
                 ):(
-                    <p>Carregando...</p>
+                    <Loading color="euro" cupLogo="Eurocopa_logo" />
                 )
             }
             </div>

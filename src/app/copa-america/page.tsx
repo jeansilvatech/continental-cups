@@ -5,6 +5,7 @@ import TitleCardGroup from "@/components/TitleCardGroup";
 import SelectionsOfGroup from "@/components/SelectionsOfGroup";
 import TitleCardPhase from "@/components/TitleCardPhase";
 import PhaseConfrontation from "@/components/PhaseConfrontation";
+import Loading from "@/components/LoadingPage";
 
 const PageCopaAmerica = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
@@ -59,7 +60,7 @@ const PageCopaAmerica = ()=>{
                     ))
 
                 ):(
-                    <p>Carregando...</p>
+                    <Loading color="america" cupLogo="Copa-America_logo"/>
                 )
             }
         </div>
