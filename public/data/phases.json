@@ -242,9 +242,24 @@
         ]
       },
       {
+        "phase": "3º Lugar",
+        "matches": [
+          {
+            "decision": "🥉",
+            "name1": "D Semi 1",
+            "flagUrl1": "default",
+            "gols1": "",
+            "name2": "D Semi 2",
+            "flagUrl2": "default",
+            "gols2": ""
+          }
+        ]
+      },
+      {
         "phase": "Final",
         "matches": [
           {
+            "decision": "🏆",
             "name1": "Semi 1",
             "flagUrl1": "default",
             "gols1": "",
@@ -680,9 +695,24 @@
         ]
       },
       {
+        "phase": "3º Lugar",
+        "matches": [
+          {
+            "decision": "🥉",
+            "name1": "D Semi 1",
+            "flagUrl1": "default",
+            "gols1": "",
+            "name2": "D Semi 2",
+            "flagUrl2": "default",
+            "gols2": ""
+          }
+        ]
+      },
+      {
         "phase": "Final",
         "matches": [
           {
+            "decision": "🏆",
             "name1": "Semi 1",
             "flagUrl1": "default",
             "gols1": "",

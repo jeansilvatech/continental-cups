@@ -76,7 +76,7 @@ const PageEuroCopa = ()=>{
                             <TitleCardPhase title={item.phase} color="euro"/>
                             {
                                 item.matches.map((match:any, index:number)=>(
-                                    <PhaseConfrontation key={index} selection1={match.name1} gols1={match.gols1} flag1={match.flagUrl1} selection2={match.name2} gols2={match.gols2} flag2={match.flagUrl2} color="text-euro" originImage="euro"/>
+                                    <PhaseConfrontation numberConfrontation={match.decision?match.decision:index+1} key={index} selection1={match.name1} gols1={match.gols1} flag1={match.flagUrl1} selection2={match.name2} gols2={match.gols2} flag2={match.flagUrl2} color="text-euro" originImage="euro"/>
                                 ))
                             }
 
