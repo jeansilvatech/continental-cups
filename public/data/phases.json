@@ -134,6 +134,22 @@
             "flagUrl2": "brasil"
           },
           {
+            "name1": "Argentina",
+            "flagUrl1": "argentina",
+            "gols1": "",
+            "name2": "Peru",
+            "gols2": "",
+            "flagUrl2": "peru"
+          },
+          {
+            "name1": "Canadá",
+            "flagUrl1": "canada",
+            "gols1": "",
+            "name2": "Chile",
+            "gols2": "",
+            "flagUrl2": "chile"
+          },
+          {
             "name1": "Jamaica",
             "flagUrl1": "jamaica",
             "gols1": "",
