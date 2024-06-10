@@ -7,6 +7,7 @@ import SelectionsOfGroup from "@/components/SelectionsOfGroup";
 import TitleCardPhase from "@/components/TitleCardPhase";
 import PhaseConfrontation from "@/components/PhaseConfrontation";
 import Loading from "@/components/LoadingPage";
+import BtnBackToHome from "@/components/BtnBackToHome";
 
 const PageCopaAmerica = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
@@ -41,6 +42,7 @@ const PageCopaAmerica = ()=>{
     }, [])
     return(
         <div className="bg-america p-5 flex justify-center items-center flex-col">
+            <BtnBackToHome color="america1"/>
             <div className="m-3">
                 <Image src={logoCopaAmerica} width={100} height={100} alt=""/>
             </div>

@@ -7,6 +7,7 @@ import TitleCardPhase from "@/components/TitleCardPhase";
 import PhaseConfrontation from "@/components/PhaseConfrontation";
 import Loading from "@/components/LoadingPage";
 import logoEuroCopa from '../../../public/assets/eurocopa.svg'
+import BtnBackToHome from "@/components/BtnBackToHome";
 
 const PageEuroCopa = ()=>{
     const [dataCup, setDataCup] = useState<any>(null);
@@ -41,6 +42,7 @@ const PageEuroCopa = ()=>{
     
     return(
         <div className="bg-euro w-full  p-5 flex flex-wrap justify-center items-start">
+            <BtnBackToHome color="euro1"/>
             <div className="m-3">
                 <Image src={logoEuroCopa} width={100} height={100} alt=""/>
             </div>
