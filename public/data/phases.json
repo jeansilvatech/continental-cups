@@ -8,133 +8,177 @@
           {
             "name1": "Argentina",
             "flagUrl1": "argentina",
+            "gols1": "",
             "name2": "Canadá",
+            "gols2": "",
             "flagUrl2": "canada"
           },
           {
             "name1": "Peru",
             "flagUrl1": "peru",
+            "gols1": "",
             "name2": "Chile",
+            "gols2": "",
             "flagUrl2": "chile"
           },
           {
             "name1": "Equador",
             "flagUrl1": "equador",
+            "gols1": "",
             "name2": "Venezuela",
+            "gols2": "",
             "flagUrl2": "venezuela"
           },
           {
             "name1": "México",
             "flagUrl1": "mexico",
+            "gols1": "",
             "name2": "Jamaica",
+            "gols2": "",
             "flagUrl2": "jamaica"
           },
           {
             "name1": "EUA",
             "flagUrl1": "estados_unidos",
+            "gols1": "",
             "name2": "Bolívia",
+            "gols2": "",
             "flagUrl2": "bolivia"
           },
           {
             "name1": "Uruguai",
             "flagUrl1": "uruguai",
+            "gols1": "",
             "name2": "Panamá",
+              "gols2": "",
             "flagUrl2": "panama"
           },
           {
             "name1": "Colômbia",
             "flagUrl1": "colombia",
+            "gols1": "",
             "name2": "Paraguai",
+            "gols2": "",
             "flagUrl2": "paraguai"
           },
           {
             "name1": "Brasil",
             "flagUrl1": "brasil",
+            "gols1": "",
             "name2": "Costa Rica",
+            "gols2": "",
             "flagUrl2": "costa_rica"
           },
           {
             "name1": "Peru",
             "flagUrl1": "peru",
+            "gols1": "",
             "name2": "Canadá",
+              "gols2": "",
             "flagUrl2": "canada"
           },
           {
             "name1": "Chile",
             "flagUrl1": "chile",
+            "gols1": "",
             "name2": "Argentina",
+            "gols2": "",
             "flagUrl2": "argentina"
           },
           {
             "name1": "Equador",
             "flagUrl1": "equador",
+            "gols1": "",
             "name2": "Jamaica",
+            "gols2": "",
             "flagUrl2": "jamaica"
           },
           {
             "name1": "Venezuela",
             "flagUrl1": "venezuela",
+            "gols1": "",
             "name2": "México",
+              "gols2": "",
             "flagUrl2": "mexico"
           },
           {
             "name1": "Panamá",
             "flagUrl1": "panama",
+            "gols1": "",
             "name2": "EUA",
+            "gols2": "",
             "flagUrl2": "estados_unidos"
           },
           {
             "name1": "Uruguai",
             "flagUrl1": "uruguai",
+            "gols1": "",
             "name2": "Bolívia",
+            "gols2": "",
             "flagUrl2": "bolivia"
           },
           {
             "name1": "Colômbia",
             "flagUrl1": "colombia",
+            "gols1": "",
             "name2": "Costa Rica",
+            "gols2": "",
             "flagUrl2": "costa_rica"
           },
           {
             "name1": "Paraguai",
             "flagUrl1": "paraguai",
+            "gols1": "",
             "name2": "Brasil",
+            "gols2": "",
             "flagUrl2": "brasil"
           },
           {
             "name1": "Jamaica",
             "flagUrl1": "jamaica",
+            "gols1": "",
             "name2": "Venezuela",
+            "gols2": "",
             "flagUrl2": "venezuela"
           },
           {
             "name1": "México",
             "flagUrl1": "mexico",
+            "gols1": "",
             "name2": "Equador",
+            "gols2": "",
             "flagUrl2": "equador"
           },
           {
             "name1": "Bolívia",
             "flagUrl1": "bolivia",
+            "gols1": "",
             "name2": "Panamá",
+              "gols2": "",
             "flagUrl2": "panama"
           },
           {
             "name1": "EUA",
             "flagUrl1": "estados_unidos",
+            "gols1": "",
             "name2": "Uruguai",
+            "gols2": "",
             "flagUrl2": "uruguai"
           },
           {
             "name1": "Brasil",
             "flagUrl1": "brasil",
+            "gols1": "",
             "name2": "Colômbia",
+            "gols2": "",
             "flagUrl2": "colombia"
           },
           {
             "name1": "Costa Rica",
             "flagUrl1": "costa_rica",
+            "gols1": "",
             "name2": "Paraguai",
+            "gols2": "",
             "flagUrl2": "paraguai"
           }
         ]
@@ -145,26 +189,34 @@
           {
             "name1": "1º A",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º B",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º B",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º A",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º D",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º C",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º C",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º D",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       },
@@ -174,14 +226,18 @@
           {
             "name1": "Quartas 1",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Quartas 2",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "Quartas 3",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Quartas 4",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       },
@@ -191,8 +247,10 @@
           {
             "name1": "Semi 1",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Semi 2",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       }
@@ -207,218 +265,290 @@
           {
             "name1": "Alemanha",
             "flagUrl1": "alemanha",
+            "gols1": "",
             "name2": "Escócia",
-            "flagUrl2": "escocia"
+            "flagUrl2": "escocia",
+            "gols2": ""
           },
           {
             "name1": "Hungria",
             "flagUrl1": "hungria",
+            "gols1": "",
             "name2": "Suíça",
-            "flagUrl2": "suica"
+            "flagUrl2": "suica",
+            "gols2": ""
           },
           {
             "name1": "Espanha",
             "flagUrl1": "espanha",
+            "gols1": "",
             "name2": "Croácia",
-            "flagUrl2": "croacia"
+            "flagUrl2": "croacia",
+            "gols2": ""
           },
           {
             "name1": "Itália",
             "flagUrl1": "italia",
+            "gols1": "",
             "name2": "Albânia",
-            "flagUrl2": "albania"
+            "flagUrl2": "albania",
+            "gols2": ""
           },
           {
             "name1": "Eslôvenia",
             "flagUrl1": "eslovenia",
+            "gols1": "",
             "name2": "Dinamarca",
-            "flagUrl2": "dinamarca"
+            "flagUrl2": "dinamarca",
+            "gols2": ""
           },
           {
             "name1": "Sérvia",
             "flagUrl1": "servia",
+            "gols1": "",
             "name2": "Inglaterra",
-            "flagUrl2": "inglaterra"
+            "flagUrl2": "inglaterra",
+            "gols2": ""
           },
           {
             "name1": "Pôlonia",
             "flagUrl1": "polonia",
+            "gols1": "",
             "name2": "Holanda",
-            "flagUrl2": "holanda"
+            "flagUrl2": "holanda",
+            "gols2": ""
           },
           {
             "name1": "Áustria",
             "flagUrl1": "austria",
+            "gols1": "",
             "name2": "França",
-            "flagUrl2": "franca"
+            "flagUrl2": "franca",
+            "gols2": ""
           },
           {
             "name1": "Romênia",
             "flagUrl1": "romenia",
+            "gols1": "",
             "name2": "Ucrânia",
-            "flagUrl2": "ucrania"
+            "flagUrl2": "ucrania",
+            "gols2": ""
           },
           {
             "name1": "Bélgica",
             "flagUrl1": "belgica",
+            "gols1": "",
             "name2": "Eslováquia",
-            "flagUrl2": "eslovaquia"
+            "flagUrl2": "eslovaquia",
+            "gols2": ""
           },
           {
             "name1": "Turquia",
             "flagUrl1": "turquia",
+            "gols1": "",
             "name2": "Geórgia",
-            "flagUrl2": "georgia"
+            "flagUrl2": "georgia",
+            "gols2": ""
           },
           {
             "name1": "Portugal",
             "flagUrl1": "portugal",
+            "gols1": "",
             "name2": "Tchéquia",
-            "flagUrl2": "tchequia"
+            "flagUrl2": "tchequia",
+            "gols2": ""
           },
           {
             "name1": "Alemanha",
             "flagUrl1": "alemanha",
+            "gols1": "",
             "name2": "Hungria",
-            "flagUrl2": "hungria"
+            "flagUrl2": "hungria",
+            "gols2": ""
           },
           {
             "name1": "Escócia",
             "flagUrl1": "escocia",
+            "gols1": "",
             "name2": "Suíça",
-            "flagUrl2": "suica"
+            "flagUrl2": "suica",
+            "gols2": ""
           },
           {
             "name1": "Croácia",
             "flagUrl1": "croacia",
+            "gols1": "",
             "name2": "Albânia",
-            "flagUrl2": "albania"
+            "flagUrl2": "albania",
+            "gols2": ""
           },
           {
             "name1": "Espanha",
             "flagUrl1": "espanha",
+            "gols1": "",
             "name2": "Itália",
-            "flagUrl2": "italia"
+            "flagUrl2": "italia",
+            "gols2": ""
           },
           {
             "name1": "Eslôvenia",
             "flagUrl1": "eslovenia",
+            "gols1": "",
             "name2": "Sérvia",
-            "flagUrl2": "servia"
+            "flagUrl2": "servia",
+            "gols2": ""
           },
           {
             "name1": "Dinamarca",
             "flagUrl1": "dinamarca",
+            "gols1": "",
             "name2": "Inglaterra",
-            "flagUrl2": "inglaterra"
+            "flagUrl2": "inglaterra",
+            "gols2": ""
           },
           {
             "name1": "Pôlonia",
             "flagUrl1": "polonia",
+            "gols1": "",
             "name2": "Áustria",
-            "flagUrl2": "austria"
+            "flagUrl2": "austria",
+            "gols2": ""
           },
           {
             "name1": "Holanda",
             "flagUrl1": "holanda",
+            "gols1": "",
             "name2": "França",
-            "flagUrl2": "franca"
+            "flagUrl2": "franca",
+            "gols2": ""
           },
           {
             "name1": "Eslováquia",
             "flagUrl1": "eslovaquia",
+            "gols1": "",
             "name2": "Ucrânia",
-            "flagUrl2": "ucrania"
+            "flagUrl2": "ucrania",
+            "gols2": ""
           },
           {
             "name1": "Bélgica",
             "flagUrl1": "belgica",
+            "gols1": "",
             "name2": "Romênia",
-            "flagUrl2": "romenia"
+            "flagUrl2": "romenia",
+            "gols2": ""
           },
           {
             "name1": "Geórgia",
             "flagUrl1": "georgia",
+            "gols1": "",
             "name2": "Tchéquia",
-            "flagUrl2": "tchequia"
+            "flagUrl2": "tchequia",
+            "gols2": ""
           },
           {
             "name1": "Turquia",
             "flagUrl1": "turquia",
+            "gols1": "",
             "name2": "Portugal",
-            "flagUrl2": "portugal"
+            "flagUrl2": "portugal",
+            "gols2": ""
           },
           {
             "name1": "Suíça",
             "flagUrl1": "suica",
+            "gols1": "",
             "name2": "Alemanha",
-            "flagUrl2": "alemanha"
+            "flagUrl2": "alemanha",
+            "gols2": ""
           },
           {
             "name1": "Escócia",
             "flagUrl1": "escocia",
+            "gols1": "",
             "name2": "Hungria",
-            "flagUrl2": "hungria"
+            "flagUrl2": "hungria",
+            "gols2": ""
           },
           {
             "name1": "Albânia",
             "flagUrl1": "albania",
+            "gols1": "",
             "name2": "Espanha",
-            "flagUrl2": "espanha"
+            "flagUrl2": "espanha",
+            "gols2": ""
           },
           {
             "name1": "Croácia",
             "flagUrl1": "croacia",
+            "gols1": "",
             "name2": "Itália",
-            "flagUrl2": "italia"
+            "flagUrl2": "italia",
+            "gols2": ""
           },
           {
             "name1": "Dinamarca",
             "flagUrl1": "dinamarca",
+            "gols1": "",
             "name2": "Sérvia",
-            "flagUrl2": "servia"
+            "flagUrl2": "servia",
+            "gols2": ""
           },
           {
             "name1": "Inglaterra",
             "flagUrl1": "inglaterra",
+            "gols1": "",
             "name2": "Eslovênia",
-            "flagUrl2": "eslovenia"
+            "flagUrl2": "eslovenia",
+            "gols2": ""
           },
           {
             "name1": "Holanda",
             "flagUrl1": "holanda",
+            "gols1": "",
             "name2": "Áustria",
-            "flagUrl2": "austria"
+            "flagUrl2": "austria",
+            "gols2": ""
           },
           {
             "name1": "França",
             "flagUrl1": "franca",
+            "gols1": "",
             "name2": "Polônia",
-            "flagUrl2": "polonia"
+            "flagUrl2": "polonia",
+            "gols2": ""
           },
           {
             "name1": "Eslováquia",
             "flagUrl1": "eslovaquia",
+            "gols1": "",
             "name2": "Romênia",
-            "flagUrl2": "romenia"
+            "flagUrl2": "romenia",
+            "gols2": ""
           },
           {
             "name1": "Ucrânia",
             "flagUrl1": "ucrania",
+            "gols1": "",
             "name2": "Bélgica",
-            "flagUrl2": "belgica"
+            "flagUrl2": "belgica",
+            "gols2": ""
           },
           {
             "name1": "Tchéquia",
             "flagUrl1": "tchequia",
+            "gols1": "",
             "name2": "Turquia",
-            "flagUrl2": "turquia"
+            "flagUrl2": "turquia",
+            "gols2": ""
           },
           {
             "name1": "Geórgia",
             "flagUrl1": "georgia",
+            "gols1": "",
             "name2": "Portugal",
-            "flagUrl2": "portugal"
+            "flagUrl2": "portugal",
+            "gols2": ""
           }
         ]
       },
@@ -428,50 +558,66 @@
           {
             "name1": "1º B",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "3º ADEF",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º A",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º C",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º F",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "3º ABC",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "2º D",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º E",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º E",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "3º ABCD",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º D",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º F",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "1º C",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º DEF",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "2º A",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "2º B",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       },
@@ -481,26 +627,34 @@
           {
             "name1": "Oitavas 1",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Oitavas 2",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "Oitavas 3",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Oitavas 4",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "Oitavas 5",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Oitavas 6",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "Oitavas 7",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Oitavas 8",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       },
@@ -510,14 +664,18 @@
           {
             "name1": "Quartas 1",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Quartas 2",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           },
           {
             "name1": "Quartas 3",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Quartas 4",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       },
@@ -527,8 +685,10 @@
           {
             "name1": "Semi 1",
             "flagUrl1": "default",
+            "gols1": "",
             "name2": "Semi 2",
-            "flagUrl2": "default"
+            "flagUrl2": "default",
+            "gols2": ""
           }
         ]
       }
