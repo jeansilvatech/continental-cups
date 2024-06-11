@@ -12,9 +12,22 @@ interface PhaseConfrotationProps {
     color: string;
     originImage: "euro"| "america";
     numberConfrontation: number | string;
+    roundNumber: number;
 }
-const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2, color, originImage, numberConfrontation}:PhaseConfrotationProps)=>{
+const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2, color, originImage, numberConfrontation, roundNumber}:PhaseConfrotationProps)=>{
     return(
+        <>
+        {
+            roundNumber?(
+                    <div className="w-full py-3 flex justify-center items-center flex-col">
+                        <h3 className="uppercase text-white font-semibold">{`${roundNumber}ª rodada`}</h3>
+                        <div className="w-1/2 h-px bg-white rounded-[50%] my-2"></div>                       
+                    </div>
+            ):(
+                ''
+            )
+        }
+
         <div className={`lg:w-1/3 w-4/5 flex justify-center items-center bg-[#E9E9E9] py-3 px-2 lg:m-5 m-2 shadow-md rounded-lg uppercase relative`}>
             <span className={`absolute -top-3 bg-[#E9E9E9] text-xs font-bold px-3 py-1 rounded-t-full ${color}`}>{numberConfrontation}</span>
             <div  className="flex flex-1 justify-center items-center flex-col">
@@ -31,6 +44,7 @@ const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2,
                 <span className={`text-xs ${color} font-semibold mt-1`}>{selection2}</span>
             </div>
         </div>
+        </>
     )
 }
 
