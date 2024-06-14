@@ -34,7 +34,7 @@ const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2,
                 <Image className="bg-[#D9D9D9] rounded-full lg:w-[50px] lg:h-[50px] w-10 h-10" src={`/assets/${originImage}/${flag1}.svg`} width={50} height={50} alt=""/>
                 <span className={`text-xs ${color} font-semibold mt-1`}>{selection1}</span>
             </div>
-            <div>
+            <div className="flex justify-center items-center">
             <span className={`font-bold text-xl ${color}`}>{gols1}</span>
             <Close sx={{fontSize:40}} className={`${color} mx-5`}/>
             <span className={`font-bold text-xl ${color}`}>{gols2}</span>
