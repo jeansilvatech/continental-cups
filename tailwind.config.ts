@@ -10,7 +10,8 @@ const config: Config = {
     extend: {
       colors:{
         "america": "#002E83",
-        "euro": "#0C5B9F"
+        "euro": "#0C5B9F",
+        "card": "#E9E9E9"
       },
       backgroundColor:{
         "bg-default": "#ffffff",

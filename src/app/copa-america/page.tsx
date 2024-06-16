@@ -50,7 +50,7 @@ const PageCopaAmerica = ()=>{
             {
                 dataCup?(
                     dataCup[1]?.groups?.map((item:any, index:number)=>(
-                        <div key={index} className="bg-[#E9E9E9] lg:w-1/3 w-full lg:h-1/3 h-1/4 flex justify-between shadow-md rounded-lg m-2 relative animate-enter">
+                        <div key={index} className="bg-card lg:w-1/3 w-full lg:h-1/3 h-1/4 flex justify-between shadow-md rounded-lg m-2 relative animate-enter">
                             <TitleCardGroup title={item.group} color="america1"/>
                             <div className="w-full flex justify-center items-center flex-wrap">
                             <div className="flex flex-wrap justify-center lg:w-1/2 w-3/4">
