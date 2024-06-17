@@ -356,10 +356,10 @@
           {
             "name1": "Áustria",
             "flagUrl1": "austria",
-            "gols1": "",
+            "gols1": "0",
             "name2": "França",
             "flagUrl2": "franca",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Romênia",
