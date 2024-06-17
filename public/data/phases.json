@@ -340,10 +340,10 @@
           {
             "name1": "Sérvia",
             "flagUrl1": "servia",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Inglaterra",
             "flagUrl2": "inglaterra",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Pôlonia",
