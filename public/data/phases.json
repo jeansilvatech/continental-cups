@@ -372,10 +372,10 @@
           {
             "name1": "Bélgica",
             "flagUrl1": "belgica",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Eslováquia",
             "flagUrl2": "eslovaquia",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Turquia",
