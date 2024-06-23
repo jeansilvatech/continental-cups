@@ -494,18 +494,18 @@
             "round": 3,
             "name1": "Suíça",
             "flagUrl1": "suica",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Alemanha",
             "flagUrl2": "alemanha",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Escócia",
             "flagUrl1": "escocia",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Hungria",
             "flagUrl2": "hungria",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Albânia",
