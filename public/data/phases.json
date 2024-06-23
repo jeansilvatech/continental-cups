@@ -25,17 +25,17 @@
           {
             "name1": "Equador",
             "flagUrl1": "equador",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Venezuela",
-            "gols2": "",
+            "gols2": "2",
             "flagUrl2": "venezuela"
           },
           {
             "name1": "México",
             "flagUrl1": "mexico",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Jamaica",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "jamaica"
           },
           {
