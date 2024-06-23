@@ -601,8 +601,8 @@
             "gols2": ""
           },
           {
-            "name1": "1º A",
-            "flagUrl1": "default",
+            "name1": "Alemanha",
+            "flagUrl1": "alemanha",
             "gols1": "",
             "name2": "2º C",
             "flagUrl2": "default",
@@ -649,8 +649,8 @@
             "gols2": ""
           },
           {
-            "name1": "2º A",
-            "flagUrl1": "default",
+            "name1": "Suíça",
+            "flagUrl1": "suica",
             "gols1": "",
             "name2": "2º B",
             "flagUrl2": "default",
