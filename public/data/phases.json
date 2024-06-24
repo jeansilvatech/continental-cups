@@ -41,17 +41,17 @@
           {
             "name1": "EUA",
             "flagUrl1": "estados_unidos",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Bolívia",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "bolivia"
           },
           {
             "name1": "Uruguai",
             "flagUrl1": "uruguai",
-            "gols1": "",
+            "gols1": "3",
             "name2": "Panamá",
-              "gols2": "",
+            "gols2": "1",
             "flagUrl2": "panama"
           },
           {
