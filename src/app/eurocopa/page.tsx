@@ -41,7 +41,7 @@ const PageEuroCopa = ()=>{
     }, [])
     
     return(
-        <div className="bg-euro w-full  p-5 flex flex-wrap justify-center items-start">
+        <div className="bg-euro w-full lg:p-5 flex flex-wrap justify-center items-start">
             <BtnBackToHome color="euro1"/>
             <div className="m-3">
                 <Image src={logoEuroCopa} width={100} height={100} alt=""/>

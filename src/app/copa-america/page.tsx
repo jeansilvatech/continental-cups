@@ -41,7 +41,7 @@ const PageCopaAmerica = ()=>{
         apiPhases()
     }, [])
     return(
-        <div className="bg-america p-5 flex justify-center items-center flex-col">
+        <div className="bg-america lg:p-5 flex justify-center items-center flex-col">
             <BtnBackToHome color="america1"/>
             <div className="m-3">
                 <Image src={logoCopaAmerica} width={100} height={100} alt=""/>
