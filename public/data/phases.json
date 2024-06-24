@@ -510,18 +510,18 @@
           {
             "name1": "Albânia",
             "flagUrl1": "albania",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Espanha",
             "flagUrl2": "espanha",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Croácia",
             "flagUrl1": "croacia",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Itália",
             "flagUrl2": "italia",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Dinamarca",
@@ -593,8 +593,8 @@
         "phase": "Oitavas de Final",
         "matches": [
           {
-            "name1": "1º B",
-            "flagUrl1": "default",
+            "name1": "Espanha",
+            "flagUrl1": "espanha",
             "gols1": "",
             "name2": "3º ADEF",
             "flagUrl2": "default",
@@ -652,8 +652,8 @@
             "name1": "Suíça",
             "flagUrl1": "suica",
             "gols1": "",
-            "name2": "2º B",
-            "flagUrl2": "default",
+            "name2": "Itália",
+            "flagUrl2": "italia",
             "gols2": ""
           }
         ]
