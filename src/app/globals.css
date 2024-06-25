@@ -17,6 +17,7 @@
 }
 *{
   transition: 0.5s;
+  user-select: none;
 }
 *::-webkit-scrollbar {
   width: 0;
