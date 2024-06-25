@@ -526,18 +526,18 @@
           {
             "name1": "Dinamarca",
             "flagUrl1": "dinamarca",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Sérvia",
             "flagUrl2": "servia",
-            "gols2": ""
+            "gols2": "0"
           },
           {
             "name1": "Inglaterra",
             "flagUrl1": "inglaterra",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Eslovênia",
             "flagUrl2": "eslovenia",
-            "gols2": ""
+            "gols2": "0"
           },
           {
             "name1": "Holanda",
