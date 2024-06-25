@@ -57,17 +57,17 @@
           {
             "name1": "Colômbia",
             "flagUrl1": "colombia",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Paraguai",
-            "gols2": "",
+            "gols2": "1",
             "flagUrl2": "paraguai"
           },
           {
             "name1": "Brasil",
             "flagUrl1": "brasil",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Costa Rica",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "costa_rica"
           },
           {
