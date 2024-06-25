@@ -604,8 +604,8 @@
             "name1": "Alemanha",
             "flagUrl1": "alemanha",
             "gols1": "",
-            "name2": "2º C",
-            "flagUrl2": "default",
+            "name2": "Dinamarca",
+            "flagUrl2": "dinamarca",
             "gols2": ""
           },
           {
@@ -641,8 +641,8 @@
             "gols2": ""
           },
           {
-            "name1": "1º C",
-            "flagUrl1": "default",
+            "name1": "Inglaterra",
+            "flagUrl1": "inglaterra",
             "gols1": "",
             "name2": "2º DEF",
             "flagUrl2": "default",
