@@ -620,13 +620,13 @@
             "name1": "França",
             "flagUrl1": "franca",
             "gols1": "",
-            "name2": "2º E",
-            "flagUrl2": "default",
+            "name2": "Bélgica",
+            "flagUrl2": "belgica",
             "gols2": ""
           },
           {
-            "name1": "1º E",
-            "flagUrl1": "default",
+            "name1": "Romênia",
+            "flagUrl1": "romenia",
             "gols1": "",
             "name2": "3º ABCD",
             "flagUrl2": "default",
