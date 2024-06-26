@@ -596,8 +596,8 @@
             "name1": "Espanha",
             "flagUrl1": "espanha",
             "gols1": "",
-            "name2": "3º ADEF",
-            "flagUrl2": "default",
+            "name2": "Geórgia",
+            "flagUrl2": "georgia",
             "gols2": ""
           },
           {
@@ -612,8 +612,8 @@
             "name1": "Portugal",
             "flagUrl1": "portugal",
             "gols1": "",
-            "name2": "3º ABC",
-            "flagUrl2": "default",
+            "name2": "Eslovênia",
+            "flagUrl2": "eslovenia",
             "gols2": ""
           },
           {
@@ -628,24 +628,24 @@
             "name1": "Romênia",
             "flagUrl1": "romenia",
             "gols1": "",
-            "name2": "3º ABCD",
-            "flagUrl2": "default",
+            "name2": "Holanda",
+            "flagUrl2": "holanda",
             "gols2": ""
           },
           {
             "name1": "Áustria",
             "flagUrl1": "austria",
             "gols1": "",
-            "name2": "2º F",
-            "flagUrl2": "default",
+            "name2": "Turquia",
+            "flagUrl2": "turquia",
             "gols2": ""
           },
           {
             "name1": "Inglaterra",
             "flagUrl1": "inglaterra",
             "gols1": "",
-            "name2": "2º DEF",
-            "flagUrl2": "default",
+            "name2": "Eslováquia",
+            "flagUrl2": "eslovaquia",
             "gols2": ""
           },
           {
