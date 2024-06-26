@@ -74,17 +74,17 @@
             "round": 2,
             "name1": "Peru",
             "flagUrl1": "peru",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Canadá",
-              "gols2": "",
+            "gols2": "1",
             "flagUrl2": "canada"
           },
           {
             "name1": "Chile",
             "flagUrl1": "chile",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Argentina",
-            "gols2": "",
+            "gols2": "1",
             "flagUrl2": "argentina"
           },
           {
