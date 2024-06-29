@@ -651,10 +651,10 @@
           {
             "name1": "Suíça",
             "flagUrl1": "suica",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Itália",
             "flagUrl2": "italia",
-            "gols2": ""
+            "gols2": "0"
           }
         ]
       },
@@ -689,8 +689,8 @@
             "name1": "Oitavas 7",
             "flagUrl1": "default",
             "gols1": "",
-            "name2": "Oitavas 8",
-            "flagUrl2": "default",
+            "name2": "Suíça",
+            "flagUrl2": "suica",
             "gols2": ""
           }
         ]
