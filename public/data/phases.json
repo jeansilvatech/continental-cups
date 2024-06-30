@@ -643,10 +643,10 @@
           {
             "name1": "Inglaterra",
             "flagUrl1": "inglaterra",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Eslováquia",
             "flagUrl2": "eslovaquia",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Suíça",
@@ -686,8 +686,8 @@
             "gols2": ""
           },
           {
-            "name1": "Oitavas 7",
-            "flagUrl1": "default",
+            "name1": "Inglaterra",
+            "flagUrl1": "inglaterra",
             "gols1": "",
             "name2": "Suíça",
             "flagUrl2": "suica",
