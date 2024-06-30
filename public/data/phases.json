@@ -595,10 +595,10 @@
           {
             "name1": "Espanha",
             "flagUrl1": "espanha",
-            "gols1": "",
+            "gols1": "4",
             "name2": "Geórgia",
             "flagUrl2": "georgia",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Alemanha",
@@ -662,8 +662,8 @@
         "phase": "Quartas de Final",
         "matches": [
           {
-            "name1": "Oitavas 1",
-            "flagUrl1": "default",
+            "name1": "Espanha",
+            "flagUrl1": "espanha",
             "gols1": "",
             "name2": "Alemanha",
             "flagUrl2": "alemanha",
