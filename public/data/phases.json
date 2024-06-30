@@ -139,17 +139,17 @@
             "round": 3,
             "name1": "Argentina",
             "flagUrl1": "argentina",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Peru",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "peru"
           },
           {
             "name1": "Canadá",
             "flagUrl1": "canada",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Chile",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "chile"
           },
           {
@@ -206,8 +206,8 @@
         "phase": "Quartas de Final",
         "matches": [
           {
-            "name1": "1º A",
-            "flagUrl1": "default",
+            "name1": "Argentina",
+            "flagUrl1": "argentina",
             "gols1": "",
             "name2": "2º B",
             "flagUrl2": "default",
@@ -217,8 +217,8 @@
             "name1": "1º B",
             "flagUrl1": "default",
             "gols1": "",
-            "name2": "2º A",
-            "flagUrl2": "default",
+            "name2": "Canadá",
+            "flagUrl2": "canada",
             "gols2": ""
           },
           {
