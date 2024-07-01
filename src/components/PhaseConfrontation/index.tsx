@@ -43,7 +43,7 @@ const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2,
                 <span className={`font-bold text-xl h-full ${color}`}>{gols1}</span>
                 )
             }
-            <Close sx={{fontSize:40}} className={`${color} mx-5`}/>
+            <Close sx={{fontSize:40}} className={`${color} lg:mx-5 mx-1`}/>
             {
                 gols2.split('-')[1]?(
                 <span className={`font-bold text-xl ${color}`}> <small className="text-xs">({gols2.split('-')[1]})</small> {gols2.split('-')[0]}</span>
