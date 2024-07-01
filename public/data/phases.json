@@ -155,17 +155,17 @@
           {
             "name1": "Jamaica",
             "flagUrl1": "jamaica",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Venezuela",
-            "gols2": "",
+            "gols2": "3",
             "flagUrl2": "venezuela"
           },
           {
             "name1": "México",
             "flagUrl1": "mexico",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Equador",
-            "gols2": "",
+            "gols2": "0",
             "flagUrl2": "equador"
           },
           {
@@ -209,13 +209,13 @@
             "name1": "Argentina",
             "flagUrl1": "argentina",
             "gols1": "",
-            "name2": "2º B",
-            "flagUrl2": "default",
+            "name2": "Equador",
+            "flagUrl2": "equador",
             "gols2": ""
           },
           {
-            "name1": "1º B",
-            "flagUrl1": "default",
+            "name1": "Venezuela",
+            "flagUrl1": "venezuela",
             "gols1": "",
             "name2": "Canadá",
             "flagUrl2": "canada",
