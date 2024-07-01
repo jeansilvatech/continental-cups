@@ -611,10 +611,10 @@
           {
             "name1": "Portugal",
             "flagUrl1": "portugal",
-            "gols1": "",
+            "gols1": "0(3)",
             "name2": "Eslovênia",
             "flagUrl2": "eslovenia",
-            "gols2": ""
+            "gols2": "0(0)"
           },
           {
             "name1": "França",
@@ -670,8 +670,8 @@
             "gols2": ""
           },
           {
-            "name1": "Oitavas 3",
-            "flagUrl1": "default",
+            "name1": "Portugal",
+            "flagUrl1": "portugal",
             "gols1": "",
             "name2": "França",
             "flagUrl2": "franca",
