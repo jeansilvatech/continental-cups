@@ -619,10 +619,10 @@
           {
             "name1": "França",
             "flagUrl1": "franca",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Bélgica",
             "flagUrl2": "belgica",
-            "gols2": ""
+            "gols2": "0"
           },
           {
             "name1": "Romênia",
@@ -673,8 +673,8 @@
             "name1": "Oitavas 3",
             "flagUrl1": "default",
             "gols1": "",
-            "name2": "Oitavas 4",
-            "flagUrl2": "default",
+            "name2": "França",
+            "flagUrl2": "franca",
             "gols2": ""
           },
           {
