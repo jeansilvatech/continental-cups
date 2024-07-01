@@ -36,9 +36,21 @@ const PhaseConfrontation = ({selection1, gols1, flag1, selection2, gols2, flag2,
                 <span className={`text-xs ${color} font-semibold mt-1`}>{selection1}</span>
             </div>
             <div className="flex justify-center items-center">
-            <span className={`font-bold text-xl h-full ${color}`}>{gols1}</span>
+            {
+                gols1.split('-')[1]?(
+                <span className={`font-bold text-xl ${color}`}> {gols1.split('-')[0]} <small className="text-xs">({gols1.split('-')[1]})</small></span>
+                ):(
+                <span className={`font-bold text-xl h-full ${color}`}>{gols1}</span>
+                )
+            }
             <Close sx={{fontSize:40}} className={`${color} mx-5`}/>
-            <span className={`font-bold text-xl ${color}`}>{gols2}</span>
+            {
+                gols2.split('-')[1]?(
+                <span className={`font-bold text-xl ${color}`}> <small className="text-xs">({gols2.split('-')[1]})</small> {gols2.split('-')[0]}</span>
+                ):(
+                <span className={`font-bold text-xl h-full ${color}`}>{gols2}</span>
+                )
+            }
             </div>
             <div className="flex flex-1 justify-center items-center flex-col">
                 <Image className="bg-[#D9D9D9] rounded-full lg:w-[50px] lg:h-[50px] w-10 h-10" src={`/assets/${originImage}/${flag2}.svg`} width={50} height={50} alt=""/>
