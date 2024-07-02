@@ -171,17 +171,17 @@
           {
             "name1": "Bolívia",
             "flagUrl1": "bolivia",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Panamá",
-              "gols2": "",
+            "gols2": "3",
             "flagUrl2": "panama"
           },
           {
             "name1": "EUA",
             "flagUrl1": "estados_unidos",
-            "gols1": "",
+            "gols1": "0",
             "name2": "Uruguai",
-            "gols2": "",
+            "gols2": "1",
             "flagUrl2": "uruguai"
           },
           {
@@ -225,13 +225,13 @@
             "name1": "1º D",
             "flagUrl1": "default",
             "gols1": "",
-            "name2": "2º C",
-            "flagUrl2": "default",
+            "name2": "Panamá",
+            "flagUrl2": "panama",
             "gols2": ""
           },
           {
-            "name1": "1º C",
-            "flagUrl1": "default",
+            "name1": "Uruguai",
+            "flagUrl1": "uruguai",
             "gols1": "",
             "name2": "2º D",
             "flagUrl2": "default",
