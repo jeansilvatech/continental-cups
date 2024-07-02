@@ -635,10 +635,10 @@
           {
             "name1": "Áustria",
             "flagUrl1": "austria",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Turquia",
             "flagUrl2": "turquia",
-            "gols2": ""
+            "gols2": "2"
           },
           {
             "name1": "Inglaterra",
@@ -681,8 +681,8 @@
             "name1": "Holanda",
             "flagUrl1": "holanda",
             "gols1": "",
-            "name2": "Oitavas 6",
-            "flagUrl2": "default",
+            "name2": "Turquia",
+            "flagUrl2": "turquia",
             "gols2": ""
           },
           {
