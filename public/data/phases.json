@@ -187,17 +187,17 @@
           {
             "name1": "Brasil",
             "flagUrl1": "brasil",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Colômbia",
-            "gols2": "",
+            "gols2": "1",
             "flagUrl2": "colombia"
           },
           {
             "name1": "Costa Rica",
             "flagUrl1": "costa_rica",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Paraguai",
-            "gols2": "",
+            "gols2": "1",
             "flagUrl2": "paraguai"
           }
         ]
@@ -222,8 +222,8 @@
             "gols2": ""
           },
           {
-            "name1": "1º D",
-            "flagUrl1": "default",
+            "name1": "Colômbia",
+            "flagUrl1": "colombia",
             "gols1": "",
             "name2": "Panamá",
             "flagUrl2": "panama",
@@ -233,8 +233,8 @@
             "name1": "Uruguai",
             "flagUrl1": "uruguai",
             "gols1": "",
-            "name2": "2º D",
-            "flagUrl2": "default",
+            "name2": "Brasil",
+            "flagUrl2": "brasil",
             "gols2": ""
           }
         ]
