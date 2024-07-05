@@ -36,7 +36,8 @@ const config: Config = {
         }
       },
       animation:{
-          enter: 'enter 1s ease-in-out'
+          enter: 'enter 1s ease-in-out',
+          enter_btn: 'enter 0.3s ease-in-out'
       }
     },
   },
