@@ -208,10 +208,10 @@
           {
             "name1": "Argentina",
             "flagUrl1": "argentina",
-            "gols1": "",
+            "gols1": "1-4",
             "name2": "Equador",
             "flagUrl2": "equador",
-            "gols2": ""
+            "gols2": "1-2"
           },
           {
             "name1": "Venezuela",
@@ -243,8 +243,8 @@
         "phase": "Semifinal",
         "matches": [
           {
-            "name1": "Quartas 1",
-            "flagUrl1": "default",
+            "name1": "Argentina",
+            "flagUrl1": "argentina",
             "gols1": "",
             "name2": "Quartas 2",
             "flagUrl2": "default",
