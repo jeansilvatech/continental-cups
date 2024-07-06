@@ -680,10 +680,10 @@
           {
             "name1": "Holanda",
             "flagUrl1": "holanda",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Turquia",
             "flagUrl2": "turquia",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Inglaterra",
@@ -707,8 +707,8 @@
             "gols2": ""
           },
           {
-            "name1": "Quartas 3",
-            "flagUrl1": "default",
+            "name1": "Holanda",
+            "flagUrl1": "holanda",
             "gols1": "",
             "name2": "Inglaterra",
             "flagUrl2": "inglaterra",
