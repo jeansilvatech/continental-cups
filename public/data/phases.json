@@ -216,10 +216,10 @@
           {
             "name1": "Venezuela",
             "flagUrl1": "venezuela",
-            "gols1": "",
+            "gols1": "1-3",
             "name2": "Canadá",
             "flagUrl2": "canada",
-            "gols2": ""
+            "gols2": "1-4"
           },
           {
             "name1": "Colômbia",
@@ -246,8 +246,8 @@
             "name1": "Argentina",
             "flagUrl1": "argentina",
             "gols1": "",
-            "name2": "Quartas 2",
-            "flagUrl2": "default",
+            "name2": "Canadá",
+            "flagUrl2": "canada",
             "gols2": ""
           },
           {
