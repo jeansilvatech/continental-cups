@@ -688,10 +688,10 @@
           {
             "name1": "Inglaterra",
             "flagUrl1": "inglaterra",
-            "gols1": "",
+            "gols1": "1-5",
             "name2": "Suíça",
             "flagUrl2": "suica",
-            "gols2": ""
+            "gols2": "1-3"
           }
         ]
       },
@@ -710,8 +710,8 @@
             "name1": "Quartas 3",
             "flagUrl1": "default",
             "gols1": "",
-            "name2": "Quartas 4",
-            "flagUrl2": "default",
+            "name2": "Inglaterra",
+            "flagUrl2": "inglaterra",
             "gols2": ""
           }
         ]
