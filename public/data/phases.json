@@ -251,11 +251,11 @@
             "gols2": ""
           },
           {
-            "name1": "Quartas 3",
-            "flagUrl1": "default",
+            "name1": "Colômbia",
+            "flagUrl1": "colombia",
             "gols1": "",
-            "name2": "Quartas 4",
-            "flagUrl2": "default",
+            "name2": "Uruguai",
+            "flagUrl2": "uruguai",
             "gols2": ""
           }
         ]
