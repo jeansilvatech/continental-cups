@@ -701,10 +701,10 @@
           {
             "name1": "Espanha",
             "flagUrl1": "espanha",
-            "gols1": "",
+            "gols1": "2",
             "name2": "França",
             "flagUrl2": "franca",
-            "gols2": ""
+            "gols2": "1"
           },
           {
             "name1": "Holanda",
@@ -717,26 +717,12 @@
         ]
       },
       {
-        "phase": "3º Lugar",
-        "matches": [
-          {
-            "decision": "🥉",
-            "name1": "D Semi 1",
-            "flagUrl1": "default",
-            "gols1": "",
-            "name2": "D Semi 2",
-            "flagUrl2": "default",
-            "gols2": ""
-          }
-        ]
-      },
-      {
         "phase": "Final",
         "matches": [
           {
             "decision": "🏆",
-            "name1": "Semi 1",
-            "flagUrl1": "default",
+            "name1": "Espanha",
+            "flagUrl1": "espanha",
             "gols1": "",
             "name2": "Semi 2",
             "flagUrl2": "default",
