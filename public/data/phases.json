@@ -245,10 +245,10 @@
           {
             "name1": "Argentina",
             "flagUrl1": "argentina",
-            "gols1": "",
+            "gols1": "2",
             "name2": "Canadá",
             "flagUrl2": "canada",
-            "gols2": ""
+            "gols2": "0"
           },
           {
             "name1": "Colômbia",
@@ -265,8 +265,8 @@
         "matches": [
           {
             "decision": "🥉",
-            "name1": "D Semi 1",
-            "flagUrl1": "default",
+            "name1": "Canadá",
+            "flagUrl1": "canada",
             "gols1": "",
             "name2": "D Semi 2",
             "flagUrl2": "default",
@@ -279,8 +279,8 @@
         "matches": [
           {
             "decision": "🏆",
-            "name1": "Semi 1",
-            "flagUrl1": "default",
+            "name1": "Argentina",
+            "flagUrl1": "argentina",
             "gols1": "",
             "name2": "Semi 2",
             "flagUrl2": "default",
