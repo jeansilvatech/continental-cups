@@ -253,10 +253,10 @@
           {
             "name1": "Colômbia",
             "flagUrl1": "colombia",
-            "gols1": "",
+            "gols1": "1",
             "name2": "Uruguai",
             "flagUrl2": "uruguai",
-            "gols2": ""
+            "gols2": "0"
           }
         ]
       },
@@ -268,8 +268,8 @@
             "name1": "Canadá",
             "flagUrl1": "canada",
             "gols1": "",
-            "name2": "D Semi 2",
-            "flagUrl2": "default",
+            "name2": "Uruguai",
+            "flagUrl2": "uruguai",
             "gols2": ""
           }
         ]
@@ -282,8 +282,8 @@
             "name1": "Argentina",
             "flagUrl1": "argentina",
             "gols1": "",
-            "name2": "Semi 2",
-            "flagUrl2": "default",
+            "name2": "Colômbia",
+            "flagUrl2": "colombia",
             "gols2": ""
           }
         ]
